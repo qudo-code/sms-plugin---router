@@ -1,11 +1,10 @@
-[⬅ Back](/)
-# Plugin Router
+[⬅ Back to 🍕](https://github.com/qudo-lucas/state-machine-ui)
+# 🔌 Plugin Router 
 Map states to URLs. 
 
 #### URL Params
 URL params will be stored in your state machine `context` under the `router.params` property.
-[⬅ Back to 🍕](https://github.com/qudo-lucas/state-machine-ui)
-# Components Plugin 🔌
+
 ```javascript
 
 // Example router options.
